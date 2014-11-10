@@ -1,0 +1,10 @@
+# Datatypes
+
+Modus  KEYWORD1
+
+# Methods and Functions
+
+mode     KEYWORD2
+set      KEYWORD2
+state    KEYWORD2
+status   KEYWORD2
