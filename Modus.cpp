@@ -1,5 +1,5 @@
 /*
-  Modus.cpp - v1.0 - November 10, 2014.
+  Modus - v1.0 - November 10, 2014.
   Arduino library for mode control.
   Created by William Koch.
   Released into the public domain.
